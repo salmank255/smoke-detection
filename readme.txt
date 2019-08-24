@@ -2,6 +2,7 @@
 
 https://ieeexplore.ieee.org/abstract/document/8629981
 
+Download the dataset from: https://drive.google.com/file/d/1z8cJOOdOQ6jjjy0gDyQBKXbAvKtORAIc/view?usp=sharing
 
 The code for our smoke detection paper will be uploaded soon.
 
